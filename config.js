@@ -1,4 +1,4 @@
-const JWT_SECRET = "8ad66e736e47bb4a147a348d0c0b09019989383ab6dd8853857e19605d9c953bf14c2d5fabb580f972135fa0897af0c5b544897bb4634650cb250df28b8bb7af";
+const JWT_SECRET = "Your_JWT_SECRET_key";
 
 module.exports = {
     JWT_SECRET,
